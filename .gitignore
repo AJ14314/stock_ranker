@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Ignore stock analysis directory
+stock_analysis/
+
+# Ignore vector database directory
+vector_db/
