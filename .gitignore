@@ -6,3 +6,5 @@ stock_analysis/
 
 # Ignore vector database directory
 vector_db/
+
+**__pycache__**
